@@ -1,0 +1,3 @@
+[submodule "libraries/NESpad"]
+	path = libraries/NESpad
+	url = https://github.com/joshmarinacci/nespad-arduino
